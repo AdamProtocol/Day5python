@@ -29,7 +29,7 @@ def loadDay1(session):
 	print('Device is configured')
 
 
-	#press the control + c
+	
 
 
 
@@ -40,6 +40,7 @@ for i in comlist:
 
 
 def initserial(com):
+	#start the serial session
     console = serial.Serial(
         port=f'COM{str(com)}',
         baudrate=9600,
@@ -51,6 +52,7 @@ def initserial(com):
     return console
 
 def pressC(session):
+	#press the control + c
 	cntr_c = chr(03)
 	session.write(b'\n')
 	session.write(cntr_c.encode('utf-8'))

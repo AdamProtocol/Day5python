@@ -1,174 +1,182 @@
 {
 
-	Student_11 :{
-		name_student : 'name',
-		computer_number : '11',
-		switch_ip_vlan1 : '10.11.1.4',
-		switch_ip_gi0 : '10.11.11.4',
-		switch_ip_vlan10 : '10.11.10.4',
-		switch_ip_vlan100 : '10.11.100.4',
-		cucm_ip_fa0 : '10.11.100.8',
-		router_200 : '200.0.0.11',
-		router_10 : '10.11.11.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_11" :{
+		"name_student" : "name",
+		"computer_number" : "11",
+		"switch_ip_vlan1" : "10.11.1.4",
+		"switch_ip_gi0" : "10.11.11.4",
+		"switch_ip_vlan10" : "10.11.10.4",
+		"switch_ip_vlan100" : "10.11.100.4",
+		"cucm_ip_fa0" : "10.11.100.8",
+		"router_200" : "200.0.0.11",
+		"router_10" : "10.11.11.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
 
 	},
 
-	Student_12 : {
-		name_student : 'name',
-		computer_number : '12',
-		switch_ip_vlan1 : '10.12.1.4',
-		switch_ip_gi0 : '10.12.12.4',
-		switch_ip_vlan10 : '10.12.10.4',
-		switch_ip_vlan100 : '10.12.100.4',
-		cucm_ip_fa0 : '10.12.100.8',
-		router_200 : '200.0.0.12',
-		router_10 : '10.12.12.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_12" :{
+		"name_student" : "name",
+		"computer_number" : "12",
+		"switch_ip_vlan1" : "10.12.1.4",
+		"switch_ip_gi0" : "10.12.12.4",
+		"switch_ip_vlan10" : "10.12.10.4",
+		"switch_ip_vlan100" : "10.12.100.4",
+		"cucm_ip_fa0" : "10.12.100.8",
+		"router_200" : "200.0.0.12",
+		"router_10" : "10.12.12.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_21 : {
-		name_student : 'name',
-		computer_number : '21',
-		switch_ip_vlan1 : '10.21.1.4',
-		switch_ip_gi0 : '10.21.21.4',
-		switch_ip_vlan10 : '10.21.10.4',
-		switch_ip_vlan100 : '10.21.100.4',
-		cucm_ip_fa0 : '10.21.100.8',
-		router_200 : '200.0.0.21',
-		router_10 : '10.21.21.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_21" :{
+		"name_student" : "name",
+		"computer_number" : "21",
+		"switch_ip_vlan1" : "10.21.1.4",
+		"switch_ip_gi0" : "10.21.21.4",
+		"switch_ip_vlan10" : "10.21.10.4",
+		"switch_ip_vlan100" : "10.21.100.4",
+		"cucm_ip_fa0" : "10.21.100.8",
+		"router_200" : "200.0.0.21",
+		"router_10" : "10.21.21.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_22 : {
-		name_student : 'name',
-		computer_number : '22',
-		switch_ip_vlan1 : '10.22.1.4',
-		switch_ip_gi0 : '10.22.22.4',
-		switch_ip_vlan10 : '10.22.10.4',
-		switch_ip_vlan100 : '10.22.100.4',
-		cucm_ip_fa0 : '10.22.100.8',
-		router_200 : '200.0.0.22',
-		router_10 : '10.22.22.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_22" :{
+		"name_student" : "name",
+		"computer_number" : "22",
+		"switch_ip_vlan1" : "10.22.1.4",
+		"switch_ip_gi0" : "10.22.22.4",
+		"switch_ip_vlan10" : "10.22.10.4",
+		"switch_ip_vlan100" : "10.22.100.4",
+		"cucm_ip_fa0" : "10.22.100.8",
+		"router_200" : "200.0.0.22",
+		"router_10" : "10.22.22.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_31 : {
-		name_student : 'name',
-		computer_number : '31',
-		switch_ip_vlan1 : '10.31.1.4',
-		switch_ip_gi0 : '10.31.31.4',
-		switch_ip_vlan10 : '10.31.10.4',
-		switch_ip_vlan100 : '10.31.100.4',
-		cucm_ip_fa0 : '10.31.100.8',
-		router_200 : '200.0.0.31',
-		router_10 : '10.31.31.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_31" :{
+		"name_student" : "name",
+		"computer_number" : "31",
+		"switch_ip_vlan1" : "10.31.1.4",
+		"switch_ip_gi0" : "10.31.31.4",
+		"switch_ip_vlan10" : "10.31.10.4",
+		"switch_ip_vlan100" : "10.31.100.4",
+		"cucm_ip_fa0" : "10.31.100.8",
+		"router_200" : "200.0.0.31",
+		"router_10" : "10.31.31.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_32 : {
-		name_student : 'name',
-		computer_number : '32',
-		switch_ip_vlan1 : '10.32.1.4',
-		switch_ip_gi0 : '10.32.32.4',
-		switch_ip_vlan10 : '10.32.10.4',
-		switch_ip_vlan100 : '10.32.100.4',
-		cucm_ip_fa0 : '10.32.100.8',
-		router_200 : '200.0.0.32',
-		router_10 : '10.32.32.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_32" :{
+		"name_student" : "name",
+		"computer_number" : "32",
+		"switch_ip_vlan1" : "10.32.1.4",
+		"switch_ip_gi0" : "10.32.32.4",
+		"switch_ip_vlan10" : "10.32.10.4",
+		"switch_ip_vlan100" : "10.32.100.4",
+		"cucm_ip_fa0" : "10.32.100.8",
+		"router_200" : "200.0.0.32",
+		"router_10" : "10.32.32.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_41 : {
-		name_student : 'name',
-		computer_number : '41',
-		switch_ip_vlan1 : '10.41.1.4',
-		switch_ip_gi0 : '10.41.41.4',
-		switch_ip_vlan10 : '10.41.10.4',
-		switch_ip_vlan100 : '10.41.100.4',
-		cucm_ip_fa0 : '10.41.100.8',
-		router_200 : '200.0.0.41',
-		router_10 : '10.41.41.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_41" :{
+		"name_student" : "name",
+		"computer_number" : "41",
+		"switch_ip_vlan1" : "10.41.1.4",
+		"switch_ip_gi0" : "10.41.41.4",
+		"switch_ip_vlan10" : "10.41.10.4",
+		"switch_ip_vlan100" : "10.41.100.4",
+		"cucm_ip_fa0" : "10.41.100.8",
+		"router_200" : "200.0.0.41",
+		"router_10" : "10.41.41.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_42 : {
-		name_student : 'name',
-		computer_number : '42',
-		switch_ip_vlan1 : '10.42.1.4',
-		switch_ip_gi0 : '10.42.42.4',
-		switch_ip_vlan10 : '10.42.10.4',
-		switch_ip_vlan100 : '10.42.100.4',
-		cucm_ip_fa0 : '10.42.100.8',
-		router_200 : '200.0.0.42',
-		router_10 : '10.42.42.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_42" :{
+		"name_student" : "name",
+		"computer_number" : "42",
+		"switch_ip_vlan1" : "10.42.1.4",
+		"switch_ip_gi0" : "10.42.42.4",
+		"switch_ip_vlan10" : "10.42.10.4",
+		"switch_ip_vlan100" : "10.42.100.4",
+		"cucm_ip_fa0" : "10.42.100.8",
+		"router_200" : "200.0.0.42",
+		"router_10" : "10.42.42.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_51 : {
-		name_student : 'name',
-		computer_number : '51',
-		switch_ip_vlan1 : '10.51.1.4',
-		switch_ip_gi0 : '10.51.51.4',
-		switch_ip_vlan10 : '10.51.10.4',
-		switch_ip_vlan100 : '10.51.100.4',
-		cucm_ip_fa0 : '10.51.100.8',
-		router_200 : '200.0.0.51',
-		router_10 : '10.51.51.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_51" :{
+		"name_student" : "name",
+		"computer_number" : "51",
+		"switch_ip_vlan1" : "10.51.1.4",
+		"switch_ip_gi0" : "10.51.51.4",
+		"switch_ip_vlan10" : "10.51.10.4",
+		"switch_ip_vlan100" : "10.51.100.4",
+		"cucm_ip_fa0" : "10.51.100.8",
+		"router_200" : "200.0.0.51",
+		"router_10" : "10.51.51.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_52 : {
-		name_student : 'name',
-		computer_number : '52',
-		switch_ip_vlan1 : '10.52.1.4',
-		switch_ip_gi0 : '10.52.52.4',
-		switch_ip_vlan10 : '10.52.10.4',
-		switch_ip_vlan100 : '10.52.100.4',
-		cucm_ip_fa0 : '10.52.100.8',
-		router_200 : '200.0.0.52',
-		router_10 : '10.52.52.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_52" :{
+		"name_student" : "name",
+		"computer_number" : "52",
+		"switch_ip_vlan1" : "10.52.1.4",
+		"switch_ip_gi0" : "10.52.52.4",
+		"switch_ip_vlan10" : "10.52.10.4",
+		"switch_ip_vlan100" : "10.52.100.4",
+		"cucm_ip_fa0" : "10.52.100.8",
+		"router_200" : "200.0.0.52",
+		"router_10" : "10.52.52.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_61 : {
-		name_student : 'name',
-		computer_number : '61',
-		switch_ip_vlan1 : '10.61.1.4',
-		switch_ip_gi0 : '10.61.61.4',
-		switch_ip_vlan10 : '10.61.10.4',
-		switch_ip_vlan100 : '10.61.100.4',
-		cucm_ip_fa0 : '10.61.100.8',
-		router_200 : '200.0.0.61',
-		router_10 : '10.61.61.1'
-		p1_mac : '',
-		p2_mac : '',
+	"Student_61" :{
+		"name_student" : "name",
+		"computer_number" : "61",
+		"switch_ip_vlan1" : "10.61.1.4",
+		"switch_ip_gi0" : "10.61.61.4",
+		"switch_ip_vlan10" : "10.61.10.4",
+		"switch_ip_vlan100" : "10.61.100.4",
+		"cucm_ip_fa0" : "10.61.100.8",
+		"router_200" : "200.0.0.61",
+		"router_10" : "10.61.61.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
+
 	},
 
-	Student_62 : {
-		name_student : 'name',
-		computer_number : '62',
-		switch_ip_vlan1 : '10.62.1.4',
-		switch_ip_gi0 : '10.62.62.4',
-		switch_ip_vlan10 : '10.62.10.4',
-		switch_ip_vlan100 : '10.62.100.4',
-		cucm_ip_fa0 : '10.62.100.8',
-		router_200 : '200.0.0.62',
-		router_10 : '10.62.62.1'
-		p1_mac : '',
-		p2_mac : '',
-	},
+	"Student_62" :{
+		"name_student" : "name",
+		"computer_number" : "62",
+		"switch_ip_vlan1" : "10.62.1.4",
+		"switch_ip_gi0" : "10.62.62.4",
+		"switch_ip_vlan10" : "10.62.10.4",
+		"switch_ip_vlan100" : "10.62.100.4",
+		"cucm_ip_fa0" : "10.62.100.8",
+		"router_200" : "200.0.0.62",
+		"router_10" : "10.62.62.1",
+		"p1_mac" : "",
+		"p2_mac" : ""
 
-
-
+	}
 }

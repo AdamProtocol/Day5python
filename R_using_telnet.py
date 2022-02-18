@@ -14,7 +14,7 @@ tn.write(b'enable \n')
 tn.write(b'config t \n')
 tn.write(b'hostname telnetpythonSwitch-11 \n')
 tn.write(b'end \n')
-tn.writeb('exit \n')
+tn.write(b'exit \n')
 
 read_output = tn.read_all().decode('ascii')
 print(read_output)
